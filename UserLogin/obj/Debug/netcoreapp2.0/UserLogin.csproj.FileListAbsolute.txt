@@ -1,0 +1,11 @@
+c:\users\maheshig\source\repos\UserLogin\UserLogin\bin\Debug\netcoreapp2.0\UserLogin.deps.json
+c:\users\maheshig\source\repos\UserLogin\UserLogin\bin\Debug\netcoreapp2.0\UserLogin.runtimeconfig.json
+c:\users\maheshig\source\repos\UserLogin\UserLogin\bin\Debug\netcoreapp2.0\UserLogin.runtimeconfig.dev.json
+c:\users\maheshig\source\repos\UserLogin\UserLogin\bin\Debug\netcoreapp2.0\UserLogin.dll
+c:\users\maheshig\source\repos\UserLogin\UserLogin\obj\Debug\netcoreapp2.0\UserLogin.csprojResolveAssemblyReference.cache
+c:\users\maheshig\source\repos\UserLogin\UserLogin\obj\Debug\netcoreapp2.0\UserLogin.csproj.CoreCompileInputs.cache
+c:\users\maheshig\source\repos\UserLogin\UserLogin\obj\Debug\netcoreapp2.0\UserLogin.AssemblyInfoInputs.cache
+c:\users\maheshig\source\repos\UserLogin\UserLogin\obj\Debug\netcoreapp2.0\UserLogin.AssemblyInfo.cs
+c:\users\maheshig\source\repos\UserLogin\UserLogin\bin\Debug\netcoreapp2.0\UserLogin.pdb
+c:\users\maheshig\source\repos\UserLogin\UserLogin\obj\Debug\netcoreapp2.0\UserLogin.dll
+c:\users\maheshig\source\repos\UserLogin\UserLogin\obj\Debug\netcoreapp2.0\UserLogin.pdb
